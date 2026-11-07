@@ -216,4 +216,4 @@ Glest is offered as a full free version with all features and updates included. 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-07 07:51:37 UTC
+**Last updated:** 2026-11-07 14:25:17 UTC
